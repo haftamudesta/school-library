@@ -48,6 +48,7 @@
 - **[Use object oriented programming in ruby]**
 - **[Addin Classes]**
 - **[Implement class inhertance]**
+- **[Implement decorator pattern design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,6 +126,7 @@ Not available at the moment.
 
 - [ ] **[Class inhertance]**
 - [ ] **[Encapsulation ]**
+- [ ] **[Decorator pattern design ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
