@@ -46,9 +46,10 @@
 > Describe between 1-3 key features of the application.
 
 - **[Use object oriented programming in ruby]**
-- **[Addin Classes]**
+- **[Adding Classes]**
 - **[Implement class inhertance]**
 - **[Implement decorator pattern design]**
+  **[Implement association]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,11 +123,12 @@ Not available at the moment.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Describe 1 - 4 features you will add to the project.
 
 - [ ] **[Class inhertance]**
 - [ ] **[Encapsulation ]**
 - [ ] **[Decorator pattern design ]**
+- [ ] **[Association ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
