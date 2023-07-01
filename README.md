@@ -43,7 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Describe key features of the application.
 
 - **[Use object oriented programming in ruby]**
 - **[Adding Classes]**
